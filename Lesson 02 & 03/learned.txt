@@ -1,0 +1,5 @@
+1. Create button with HTML
+2. Style with CSS one-by-one
+3. class attribute to label HTML elements
+4. Pseudo-class
+5. Hover, opacity, transition & box shadows
