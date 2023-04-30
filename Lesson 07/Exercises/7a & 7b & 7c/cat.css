@@ -1,0 +1,22 @@
+img {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.cat-7a {
+  width: 400px;
+  border-radius: 18px;
+}
+
+.cat-7b {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+}
+
+.cat-7c {
+  width: 220px;
+  height: 220px;
+  border-radius: 110px;
+  object-fit: cover;
+}
